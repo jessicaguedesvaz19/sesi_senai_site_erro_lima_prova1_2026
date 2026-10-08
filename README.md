@@ -1,1 +1,8 @@
-# sesi_senai_site_erro_lima_prova1_2026
+# Projeto Avaliatvo: 
+
+ Consertar um site com vários erros na programação.
+
+ ## Tecnologia: 
+
+ - HTML;
+ - CSS.
